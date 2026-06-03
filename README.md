@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Glen 👋
 
-<!--
-**glxncore/glxncore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate interested in Full Stack Development and AI.
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Lung Disease Classification
+Deep learning-based system for classifying lung diseases from X-ray images.
+
+### Portfolio Website
+Personal portfolio built with React.
+
+## Connect
+
+LinkedIn:
+https://linkedin.com/in/glen-johns-2004aug
+
+Email:
+glenjohnspooyappally@gmail.com
