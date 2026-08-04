@@ -10,7 +10,7 @@
 
 Deep Learning-based web application for classifying lung diseases from chest X-ray images.
 
-**Tech Stack:** Python, Django, React, HTML, CSS
+**Tech Stack:** Python, TensorFlow, Flask, HTML, CSS
 
 🔗 https://github.com/glxncore/Lung-Disease-Multiclass-Complete
 
